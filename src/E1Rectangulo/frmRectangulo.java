@@ -2,7 +2,7 @@
  * Created by JFormDesigner on Fri Jun 12 03:06:33 GMT-05:00 2026
  */
 
-package E1;
+package E1Rectangulo;
 
 import javax.swing.GroupLayout;
 import javax.swing.JFrame;

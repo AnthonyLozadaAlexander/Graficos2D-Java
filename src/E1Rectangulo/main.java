@@ -1,6 +1,4 @@
-package E1;
-
-import Concepto.FrmConcepto;
+package E1Rectangulo;
 
 public class main {
     public static void main(String[] args) {

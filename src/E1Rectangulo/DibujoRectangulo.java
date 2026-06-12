@@ -1,4 +1,4 @@
-package E1;
+package E1Rectangulo;
 
 
 import javax.swing.*;
